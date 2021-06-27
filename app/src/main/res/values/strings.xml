@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">unConvertoW</string>
+    <string name="kilograms_to_pound_converter">Kilograms To Pound Converter</string>
+    <string name="welcome_to_unconvertow">Welcome To unConvertoW</string>
+    <string name="get_pound_amount">Get Pound Amount</string>
+    <string name="created_by_miteshtank">Created By MiteshTank</string>
+    <string name="enter_kg_amount">Enter Kg Amount</string>
+</resources>
